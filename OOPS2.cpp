@@ -52,3 +52,7 @@ int main() {
 
     return 0;
 }
+//Expected Output:
+//Area of Rectangle r1 is : 0
+//Area of Rectangle r2 is : 0
+//Area of Rectangle r3 is : 50
