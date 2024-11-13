@@ -30,3 +30,10 @@ int main() {
     cout<<obj2.getCircumference()<<endl;
     return 0;
 }
+//Expected Output
+//1
+//2
+//78.5
+//31.4
+//0
+//0
