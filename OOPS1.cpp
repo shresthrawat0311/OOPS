@@ -23,3 +23,6 @@ int main() {
     cout<<obj.getDifference()<<endl;
     return 0;
 }
+//Expected Output:
+//1000
+//400
