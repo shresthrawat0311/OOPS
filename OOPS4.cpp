@@ -41,3 +41,7 @@ int main(){
     cout<<"Perimeter of circle: "<<circle_perimeter(s)<<endl;
     return 0;  
 }
+//Expected Output:
+//Perimeter of rectangle: 60
+//Perimeter of square: 40
+//Perimeter of circle: 62
